@@ -1,0 +1,76 @@
+meta_Books.jsonl
+Missing values percentage in 'main_category': 0.01%
+Missing values percentage in 'title': 0.00%
+Missing values percentage in 'subtitle': 10.73%
+Missing values percentage in 'author': 35.54%
+Missing values percentage in 'average_rating': 0.00%
+Missing values percentage in 'rating_number': 0.00%
+Missing values percentage in 'features': 0.00%
+Missing values percentage in 'description': 0.00%
+Missing values percentage in 'price': 13.86%
+Missing values percentage in 'images': 0.00%
+Missing values percentage in 'videos': 0.00%
+Missing values percentage in 'store': 3.92%
+Missing values percentage in 'categories': 0.00%
+Missing values percentage in 'details': 0.00%
+Missing values percentage in 'parent_asin': 0.00%
+Missing values percentage in 'bought_together': 100.00%
+
+meta_CDs_and_Vinyl.jsonl
+Missing values percentage in 'main_category': 0.12%
+Missing values percentage in 'title': 0.00%
+Missing values percentage in 'average_rating': 0.00%
+Missing values percentage in 'rating_number': 0.00%
+Missing values percentage in 'features': 0.00%
+Missing values percentage in 'description': 0.00%
+Missing values percentage in 'price': 21.27%
+Missing values percentage in 'images': 0.00%
+Missing values percentage in 'videos': 0.00%
+Missing values percentage in 'store': 0.12%
+Missing values percentage in 'categories': 0.00%
+Missing values percentage in 'details': 0.00%
+Missing values percentage in 'parent_asin': 0.00%
+Missing values percentage in 'bought_together': 100.00%
+Missing values percentage in 'subtitle': 99.90%
+Missing values percentage in 'author': 99.93%
+
+
+meta_Kindle_Store.jsonl
+Missing values percentage in 'main_category': 0.01%
+Missing values percentage in 'title': 0.00%
+Missing values percentage in 'subtitle': 9.01%
+Missing values percentage in 'author': 21.11%
+Missing values percentage in 'average_rating': 0.00%
+Missing values percentage in 'rating_number': 0.00%
+Missing values percentage in 'features': 0.00%
+Missing values percentage in 'description': 0.00%
+Missing values percentage in 'price': 13.55%
+Missing values percentage in 'images': 0.00%
+Missing values percentage in 'videos': 0.00%
+Missing values percentage in 'store': 0.00%
+Missing values percentage in 'categories': 0.00%
+Missing values percentage in 'details': 0.00%
+Missing values percentage in 'parent_asin': 0.00%
+Missing values percentage in 'bought_together': 100.00%
+
+
+meta_Software.jsonl
+Missing values percentage in 'main_category': 1.98%
+Missing values percentage in 'title': 0.00%
+Missing values percentage in 'average_rating': 0.03%
+Missing values percentage in 'rating_number': 3.32%
+Missing values percentage in 'features': 0.00%
+Missing values percentage in 'description': 0.00%
+Missing values percentage in 'price': 20.47%
+Missing values percentage in 'images': 0.00%
+Missing values percentage in 'videos': 0.00%
+Missing values percentage in 'store': 0.24%
+Missing values percentage in 'categories': 0.00%
+Missing values percentage in 'details': 0.00%
+Missing values percentage in 'parent_asin': 0.00%
+Missing values percentage in 'bought_together': 100.00%
+Missing values percentage in 'subtitle': 100.00%
+Missing values percentage in 'author': 100.00%
+
+
+
