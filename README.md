@@ -1,4 +1,3 @@
-# Sales_Forcast_Project
 # Sales Forecast Project
 
 ## Project Overview
