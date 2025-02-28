@@ -1,7 +1,7 @@
 # Sales Forecast Project
 
 ## Project Overview
-The Sales Forecast Project is currently under development. All files, data structures, and functionalities are subject to change based on project requirements and improvements. The system is designed to leverage hierarchical neural networks for predictive analytics using CSV file inputs.
+The Sales Forecast Project is currently under development. All files, data structures, and functionalities are subject to change based on project requirements and improvements. The system is designed to leverage hierarchical neural networks for predictive analytics using CSV file inputs
 
 ## System Architecture
 The project utilizes a multi-layered neural network approach:
