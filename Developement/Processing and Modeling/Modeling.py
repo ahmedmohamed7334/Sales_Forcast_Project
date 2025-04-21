@@ -1316,8 +1316,6 @@ if __name__ == "__main__":
                     run_audio_chatbot_v2(start_trigger='1', stop_trigger='2', 
                                     response_generator=prediction_chatbot_handler)
             elif choice == "2":
-                process_new_data()
-            elif choice == "3":
                 print("Exiting program. Goodbye!")
                 running = False
                 break
