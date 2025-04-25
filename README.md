@@ -117,7 +117,6 @@ The system:
 4. Evaluates models using MSE, RMSE, MAE, and R²
 5. Creates visualizations of model performance
 6. Builds a stacking ensemble for final predictions
-7. Generates feature importance analyses
 
 ## Speech Interface
 The speech interface allows for hands-free operation:
