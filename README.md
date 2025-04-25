@@ -58,7 +58,7 @@ The system follows a modular pipeline architecture:
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - Required packages (automatically installed when running the system):
   - pandas, numpy, scikit-learn
   - xgboost, lightgbm, catboost
